@@ -1,0 +1,23 @@
+{
+  "name": "hello-npm",
+  "version": "1.0.0",
+  "description": "testing npm breakout",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/causm/hello-npm.git"
+  },
+  "keywords": [
+    "security",
+    "npm"
+  ],
+  "author": "kesten.broughton@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/causm/hello-npm/issues"
+  },
+  "homepage": "https://github.com/causm/hello-npm#readme"
+}
